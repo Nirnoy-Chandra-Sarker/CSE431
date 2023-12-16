@@ -5,7 +5,7 @@ Unlisted YouTube video:
 
 
 Paper title:
-Decoding Emotional Pressure in Social Interactions via NLP models
+Detecting Emotional Pressure by decoding social interactions using NLP models.
 
 
 Paper presentation (anyone can view without login):
