@@ -7,8 +7,8 @@ Unlisted YouTube video:
 Paper title:
 Detecting Emotional Pressure by decoding social interactions using NLP models.
 
-Paper presentation (anyone can view without login): https://docs.google.com/presentation/d/1N6ZYSws7AEW7jKWafrWtJpmhwwGFoklxkgAL4DQpSv4/edit#slide=id.g264a085c486_1_93
-
+Paper presentation (anyone can view without login): 
+https://docs.google.com/presentation/d/1MsRYpeG_kFTqOswWeILZn0gjzxndJo0-ew7e0su2qQI/edit?usp=sharing
 
 Group Number:
 7
