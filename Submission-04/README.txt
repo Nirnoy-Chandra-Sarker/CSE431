@@ -2,6 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/656c153af3a4bfb6217f12ea
 
 Unlisted YouTube video:
+https://youtu.be/eCs7-wFzGlk
 
 
 Paper title:
